@@ -12,6 +12,7 @@ namespace Chart4_Arrays
 {
     class Program
     {
+        // Тестовый комментарий
         // Шаблон try{} catch{} для быстрого коппирования.
         public void TryCatch() 
         {
