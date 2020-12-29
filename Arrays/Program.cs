@@ -14,8 +14,7 @@ namespace Chart4_Arrays
     {
 
         // dsiuhvfpsdfdsf
-        //idofhvpsdfhv
-        //oidfhvuisdhf[pd
+
         // Шаблон try{} catch{} для быстрого коппирования.
         public void TryCatch() 
         {
