@@ -12,6 +12,10 @@ namespace Chart4_Arrays
 {
     class Program
     {
+
+        // dsiuhvfpsdfdsf
+        //idofhvpsdfhv
+        //oidfhvuisdhf[pd
         // Шаблон try{} catch{} для быстрого коппирования.
         public void TryCatch() 
         {
