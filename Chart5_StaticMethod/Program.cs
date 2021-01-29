@@ -12,7 +12,6 @@ namespace Chart5_StaticMethod
 {
     class Program
     {
-
         // Шаблон try{} catch{} для быстрого коппирования.
         public void TryCatch()
         {
@@ -89,11 +88,13 @@ namespace Chart5_StaticMethod
                            MessageBoxIcon.Warning
                            );
             }
-
-
-
-
         }
+
+
+
+
+
+
         static void Main(string[] args)
         {
             try
